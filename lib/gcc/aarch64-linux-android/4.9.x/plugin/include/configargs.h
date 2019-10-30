@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "../gcc-4.9/configure --host=aarch64-linux-android --target=aarch64-linux-android --disable-nls --enable-gold --enable-plugins LDFLAGS=-pie --disable-werror --prefix=/mnt/a4455jkjh/android-arm64/aarch64-linux-androide --disable-libssp --enable-threads --disable-nls --disable-libmudflap --disable-libgomp --disable-libstdc__-v3 --disable-sjlj-exceptions --disable-shared --disable-tls --disable-libitm --enable-bionic-libs --enable-libatomic-ifuncs=no --enable-initfini-array --disable-nls --with-bugurl=http://source.android.com/source/report-bugs.html --enable-languages=c,c++ --disable-bootstrap --enable-libgomp --enable-gnu-indirect-function --disable-libsanitizer --enable-gold --enable-threads --enable-eh-frame-hdr-for-static --enable-graphite=yes --with-sysroot=/mnt/a4455jkjh/android-arm64/aarch64-linux-android/sysroot --with-gxx-include-dir=/mnt/a4455jkjh/android-arm64/aarch64-linux-android/include/c++/4.9.x --with-gmp=/media/a4455jkjh/android/gcc/build-arm64 --with-isl=/media/a4455jkjh/android/gcc/build-arm64 --with-mpfr=/media/a4455jkjh/android/gcc/build-arm64 --with-mpc=/media/a4455jkjh/android/gcc/build-arm64 --with-cloog=/media/a4455jkjh/android/gcc/build-arm64 --with-zlib=system";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { NULL, NULL} };
